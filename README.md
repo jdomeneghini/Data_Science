@@ -11,7 +11,7 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jdomeneghini)
-* [Medium](https://www.medium.com)
+* [Medium](https://www.medium.com/@jdomeneghini)
 
 ## Projetos:
 
