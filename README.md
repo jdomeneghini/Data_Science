@@ -4,6 +4,7 @@
 
 ### Jéssica Domeneghini
 <sub>*Student of Data Science* </sub>
+
 Aqui se encontram alguns projetos relacionados a Data Science.
 
 **Background in:** Python, Machine Learning.
