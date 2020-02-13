@@ -2,7 +2,8 @@
   <img src="banner.png" >
 </p>
 
-## Jéssica Domeneghini - <i>*Student of Data Science* </i>
+## Jéssica Domeneghini 
+<sub>*Student of Data Science* </sub>
 
 Aqui se encontram alguns projetos relacionados a Data Science.
 
