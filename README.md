@@ -3,7 +3,7 @@
 </p>
 
 ## Jéssica Domeneghini 
-<sub>*Student of Data Science* </sub>
+<sub>*Data Scientist* </sub>
 
 Aqui se encontram alguns projetos relacionados a Data Science.
 
