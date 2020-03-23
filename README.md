@@ -19,5 +19,6 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 * **Análise de Vendas de Videogame:** https://bit.ly/37oGaoI
 * **Classificando Vinhos:** https://bit.ly/2OSmEL8
 * **Analisando Dados Olímpicos:**  https://bit.ly/2OONDXS
+* **Análise de Dados de Doenças Cardiovasculares:** https://bit.ly/2QEolg4
 
 ---
