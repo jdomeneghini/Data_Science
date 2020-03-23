@@ -16,9 +16,9 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 ## Projetos:
 
 * **Analisando Dados do Airbnb - Los Angeles:** https://bit.ly/3bCuQZM
+* **Análise de Dados de Doenças Cardiovasculares:** https://bit.ly/2QEolg4
 * **Análise de Vendas de Videogame:** https://bit.ly/37oGaoI
 * **Classificando Vinhos:** https://bit.ly/2OSmEL8
 * **Analisando Dados Olímpicos:**  https://bit.ly/2OONDXS
-* **Análise de Dados de Doenças Cardiovasculares:** https://bit.ly/2QEolg4
 
 ---
