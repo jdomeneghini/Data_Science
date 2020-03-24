@@ -18,7 +18,8 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 * **Analisando Dados do Airbnb - Los Angeles:** https://bit.ly/3bCuQZM
 * **Análise de Dados de Doenças Cardiovasculares:** https://bit.ly/2QEolg4
 * **Análise de Vendas de Videogame:** https://bit.ly/37oGaoI
-* **Classificando Vinhos:** https://bit.ly/2OSmEL8
 * **Analisando Dados Olímpicos:**  https://bit.ly/2OONDXS
+* **Classificando Vinhos:** https://bit.ly/2OSmEL8
+* **Modelos Machine Learning - Examples:** https://bit.ly/3bzd1tN
 
 ---
