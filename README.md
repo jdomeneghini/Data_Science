@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagemgit.png" >
+  <img src="banner1.png" >
 </p>
 
 ## Jéssica Domeneghini 
