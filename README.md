@@ -15,7 +15,7 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 
 ## Projetos:
 
-* **Detecção de Fraude em Cartão de Crédito:** https://bit.ly/3cEiFMT
+* **Detecção de Fraude em Cartão de Crédito:** https://bit.ly/33pCFQ9
 * **Analisando Dados do Airbnb - Los Angeles:** https://bit.ly/3bCuQZM
 * **Análise de Dados de Doenças Cardiovasculares:** https://bit.ly/2QEolg4
 * **Análise de Vendas de Videogame:** https://bit.ly/37oGaoI
