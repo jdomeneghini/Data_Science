@@ -8,7 +8,7 @@ Aqui se encontram alguns projetos relacionados a Data Science.
 
 ## Projetos:
 
-* **Avaliação de Risco de Crédito: ** https://bityli.com/QM3K1
+* **Avaliação de Risco de Crédito:** https://bityli.com/QM3K1
 * **Detecção de Fraude em Cartão de Crédito:** https://bit.ly/33pCFQ9
 * **Prevendo Doenças Cardiovasculares:** https://bit.ly/33Czrcq
 * **Classificando Vinhos:** https://bit.ly/2OSmEL8
